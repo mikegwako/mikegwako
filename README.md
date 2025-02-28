@@ -23,7 +23,7 @@
 - Web Application Security 🔐
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mikeallan-gwako-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mikeallan-gwako)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MikeAllanGwako-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mikeallan-gwako) 
 [![YouTube](https://img.shields.io/badge/YouTube-Let's%20Talk%20Africans-red?style=flat&logo=youtube)](https://www.youtube.com/c/LetsTalkAfricans)  
 
 🔥 **“Building tech that drives change.”**
