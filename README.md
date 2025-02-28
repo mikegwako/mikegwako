@@ -5,8 +5,8 @@
 🌍 **Co-founder of Evolt - Tech-driven EV Solutions**  
 📚 **Passionate about Cloud, Web Dev & ERP Systems**  
 
-## 📊 GitHub Stats
-![Logan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikegwako&show_icons=true&theme=radical)
+
+![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikegwako&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mikegwako&theme=onedark)
@@ -23,7 +23,7 @@
 - Web Application Security 🔐
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mikegwako-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mikeallan-gwako-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mikeallan-gwako)  
 [![YouTube](https://img.shields.io/badge/YouTube-Let's%20Talk%20Africans-red?style=flat&logo=youtube)](https://www.youtube.com/c/LetsTalkAfricans)  
 
 🔥 **“Building tech that drives change.”**
