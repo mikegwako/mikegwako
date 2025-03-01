@@ -6,7 +6,7 @@
 📚 **Passionate about Cloud, Web Dev & ERP Systems**  
 
 
-![Mike's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mikegwako&show_icons=true&theme=radical)
+![Mike's GitHub Stats]
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=mikegwako&theme=onedark)
