@@ -3,7 +3,7 @@
 🚀 **Software Engineer | EV Advocate | Dj**  
 🎓 **BSc in Software Engineering | Kirinyaga University**  
 🌍 **Co-founder of Evolt - Tech-driven EV Solutions**  
-📚 **Passionate about Cloud, Web Dev & ERP Systems**  
+📚 **Passionate about Cloud, Dev & ERP Systems**  
 
 
 ![Mike's GitHub Stats]
